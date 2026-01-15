@@ -9,5 +9,5 @@ I blog about security, leadership, and developer productivity at [memoryleaks.bl
 ### Connect
 
 [![Blog](https://img.shields.io/badge/Blog-memoryleaks.blog-blue)](https://memoryleaks.blog/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-le4ker-0077B5)](https://www.linkedin.com/in/le4ker)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-le4ker-0077B5)](https://www.linkedin.com/in/psakkos)
 [![X](https://img.shields.io/badge/X-@le4ker-000000)](https://x.com/le4ker)
