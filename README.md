@@ -1,10 +1,16 @@
 # About Me
 
-I'm an engineering leader at [Panther](https://panther.com/) with over a decade of experience in cybersecurity and engineering leadership. My career includes security research at CERN, security engineering at Microsoft Office 365, and founding Blocktopus, a KYC/AML startup. I hold patents, have published research in security and machine learning, and have helped scale startups from pre-seed through Series B.
+I'm an engineering leader at [Panther](https://panther.com/) with over a decade
+of experience in cybersecurity and engineering leadership. My career includes
+security research at CERN, security engineering at Microsoft Office 365, and
+founding Blocktopus, a KYC/AML startup. I hold patents, have published research
+in security and machine learning, and have helped scale startups from pre-seed
+through Series B.
 
 ### Writing
 
-I blog about security, leadership, and developer productivity at [memoryleaks.blog](https://memoryleaks.blog/)
+I blog about security, leadership, and developer productivity at
+[memoryleaks.blog](https://memoryleaks.blog/)
 
 ### Connect
 
