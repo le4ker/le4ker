@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add README.md .markdownlint.yaml .prettierrc.yaml)",
+      "Bash(git commit:*)",
+      "Bash(git add .gitignore)",
+      "WebFetch(domain:patents.google.com)",
+      "WebFetch(domain:scholar.google.com)",
+      "WebFetch(domain:github.com)"
+    ]
+  }
+}
