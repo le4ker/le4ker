@@ -6,6 +6,4 @@ includes security research at CERN, security engineering at Microsoft Office
 [patents](https://patents.google.com/?inventor=Panos+Sakkos,Panagiotis+Sakkos),
 have
 [published research](https://scholar.google.com/citations?user=UtV6LFYAAAAJ) in
-security and machine learning, and have worked across every stage of startup
-growth — from founding pre-seed companies to joining teams at Series A and
-Series B.
+security and machine learning, and have helped scale startups from pre-seed through Series B.
