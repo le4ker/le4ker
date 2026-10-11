@@ -9,9 +9,3 @@ have
 security and machine learning, and have worked across every stage of startup
 growth — from founding pre-seed companies to joining teams at Series A and
 Series B.
-
-## Connect
-
-[![Blog](https://img.shields.io/badge/Blog-memoryleaks.blog-blue)](https://memoryleaks.blog/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-le4ker-0077B5)](https://www.linkedin.com/in/psakkos)
-[![X](https://img.shields.io/badge/X-@le4ker-000000)](https://x.com/le4ker)
